@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HceDYb/6peWZ2c019tm+DsboCER8REZzasLippunHwg=",
+  "Hash": "XX+aKLLpE11HTy57+FHM9Ti1d2VswY5RCxfd1a8jM70=",
   "Source": "admin-back",
   "BasePath": "_content/admin-back",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "admin-back\\wwwroot",
       "Source": "admin-back",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\Default-237fc04b.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\Default-237fc04b.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/Default-237fc04b.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Default-237fc04b.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\Default-73d0e8d7.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\Default-73d0e8d7.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/Default-73d0e8d7.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Default-73d0e8d7.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\Empty-fac01a51.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\Empty-fac01a51.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/Empty-fac01a51.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Empty-fac01a51.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\Grants-786dc032.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\Grants-786dc032.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/Grants-786dc032.js",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Grants-786dc032.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\Grants-7adc56dd.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\Grants-7adc56dd.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/Grants-7adc56dd.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Grants-7adc56dd.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\index-2f9def03.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\index-2f9def03.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/index-2f9def03.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-2f9def03.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\index-55ef3ac4.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\index-55ef3ac4.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/index-55ef3ac4.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-55ef3ac4.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\Login-c837ff36.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\Login-c837ff36.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/Login-c837ff36.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Login-c837ff36.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-48d3eec6.woff",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-48d3eec6.woff",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/materialdesignicons-webfont-48d3eec6.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-48d3eec6.woff"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-861aea05.eot",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-861aea05.eot",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/materialdesignicons-webfont-861aea05.eot",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-861aea05.eot"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-bd725a7a.ttf",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-bd725a7a.ttf",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/materialdesignicons-webfont-bd725a7a.ttf",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-bd725a7a.ttf"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-e52d60f6.woff2",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\materialdesignicons-webfont-e52d60f6.woff2",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/materialdesignicons-webfont-e52d60f6.woff2",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\materialdesignicons-webfont-e52d60f6.woff2"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\ssrBoot-0c3da786.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\ssrBoot-0c3da786.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/ssrBoot-0c3da786.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ssrBoot-0c3da786.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\tag-be74eb68.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\tag-be74eb68.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/tag-be74eb68.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\tag-be74eb68.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VApp-71d361fe.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VApp-71d361fe.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VApp-71d361fe.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VApp-71d361fe.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VApp-866fc1c1.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VApp-866fc1c1.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VApp-866fc1c1.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VApp-866fc1c1.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VAvatar-7f207371.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VAvatar-7f207371.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VAvatar-7f207371.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VAvatar-7f207371.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VAvatar-b00a554b.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VAvatar-b00a554b.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VAvatar-b00a554b.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VAvatar-b00a554b.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VCard-4f73d96e.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VCard-4f73d96e.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VCard-4f73d96e.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VCard-4f73d96e.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VCard-754ecdd7.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VCard-754ecdd7.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VCard-754ecdd7.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VCard-754ecdd7.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VContainer-05540c9a.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VContainer-05540c9a.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VContainer-05540c9a.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VContainer-05540c9a.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VContainer-58f30f37.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VContainer-58f30f37.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VContainer-58f30f37.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VContainer-58f30f37.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VSkeletonLoader-10e52910.js",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VSkeletonLoader-10e52910.js",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VSkeletonLoader-10e52910.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VSkeletonLoader-10e52910.js"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\assets\\VSkeletonLoader-1632072c.css",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\assets\\VSkeletonLoader-1632072c.css",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "assets/VSkeletonLoader-1632072c.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\VSkeletonLoader-1632072c.css"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\favicon.ico",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\favicon.ico",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\index.html",
+      "Identity": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\index.html",
       "SourceId": "admin-back",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OSPanel\\home\\task-node\\admin-back\\wwwroot\\",
+      "ContentRoot": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\wwwroot\\",
       "BasePath": "_content/admin-back",
       "RelativePath": "index.html",
       "AssetKind": "All",

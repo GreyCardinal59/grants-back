@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZy+WE6kO+MDlwQJywI1S3F4qU2nHi2eMu20LxB/tATBy+9cejfDk5TK8I43TIGT3oPNJS9+B8u9yd3eFMLrtg==",
+  "dgSpecHash": "RKZKM9EZ9S9sW/aZ1n78rc4B8dfn9/rnAuO4M3EwXl96V4+67pN0aGZMp8zoiAq5x3Ydv3S7Fz0lOsrIawViXg==",
   "success": true,
-  "projectFilePath": "D:\\OSPanel\\home\\task-spa\\admin-back\\admin-back.csproj",
+  "projectFilePath": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\admin-back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SiBro\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\SiBro\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",

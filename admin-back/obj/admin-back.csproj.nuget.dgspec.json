@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OSPanel\\home\\task-spa\\admin-back\\admin-back.csproj": {}
+    "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\admin-back.csproj": {}
   },
   "projects": {
-    "D:\\OSPanel\\home\\task-spa\\admin-back\\admin-back.csproj": {
+    "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\admin-back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OSPanel\\home\\task-spa\\admin-back\\admin-back.csproj",
+        "projectUniqueName": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\admin-back.csproj",
         "projectName": "admin-back",
-        "projectPath": "D:\\OSPanel\\home\\task-spa\\admin-back\\admin-back.csproj",
+        "projectPath": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\admin-back.csproj",
         "packagesPath": "C:\\Users\\SiBro\\.nuget\\packages\\",
-        "outputPath": "D:\\OSPanel\\home\\task-spa\\admin-back\\obj\\",
+        "outputPath": "D:\\OSPanel\\home\\grants-back\\grants-back\\admin-back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

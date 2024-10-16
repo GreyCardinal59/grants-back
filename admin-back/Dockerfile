@@ -7,10 +7,10 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["admin-back/admin-back.csproj", "admin-back/"]
+COPY ["admin-back.csproj", "admin-back/"]
 RUN dotnet restore "admin-back/admin-back.csproj"
+WORKDIR "/src/admin-back/"
 COPY . .
-WORKDIR "/src/admin-back"
 RUN dotnet build "admin-back.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
