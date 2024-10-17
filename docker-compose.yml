@@ -1,4 +1,6 @@
-﻿services:
+﻿version: "3.0"
+
+services:
   postgres:
     container_name: postgres
     image: postgres
@@ -18,7 +20,7 @@
     container_name: backend
     restart: always
     ports:
-      - 8080:80
+      - 8080:8080
     depends_on:
       - postgres
 volumes:

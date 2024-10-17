@@ -6,6 +6,7 @@ using admin_back.DataAccess;
 using admin_back.Extensions;
 using admin_back.Interfaces;
 using admin_back.Services;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
 
@@ -27,6 +28,12 @@ services.AddSpaStaticFiles(config =>
     config.RootPath = "wwwroot/assets";
 });
 
+services.AddDbContext<GrantsDbContext>(options =>
+    options.UseNpgsql(configuration.GetConnectionString("Database")));
+
+services.AddDbContext<UsersDbContext>(options =>
+    options.UseNpgsql(configuration.GetConnectionString("Database")));
+
 services.Configure<JwtOptions>(configuration.GetSection(nameof(JwtOptions)));
 
 services.AddApiAuthentication(services.BuildServiceProvider().GetRequiredService<IOptions<JwtOptions>>());
@@ -34,9 +41,6 @@ services.AddApiAuthentication(services.BuildServiceProvider().GetRequiredService
 services.AddControllers();
 
 services.AddSwaggerGen();
-
-services.AddScoped<GrantsDbContext>();
-services.AddScoped<UsersDbContext>();
 
 services.AddScoped<HttpContextAccessor>();
 
@@ -51,6 +55,7 @@ await using var grantsDbContext = scope.ServiceProvider.GetRequiredService<Grant
 await using var usersDbContext = scope.ServiceProvider.GetRequiredService<UsersDbContext>();
 await grantsDbContext.Database.EnsureCreatedAsync();
 await usersDbContext.Database.EnsureCreatedAsync();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
