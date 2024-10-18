@@ -26,5 +26,10 @@ docker exec -it postgres bash
 psql -U postgres -d admin_db -f /backup.sql
 # exit
 ```
+### Данные для авторизации:
+```
+login: admin
+password: admin
+```
 
 
