@@ -15,7 +15,7 @@ services:
       - postgres-data:/var/lib/postgresql/data
   backend:
     build:
-      context: D:\OSPanel\home\grants-back\grants-back\admin-back
+      context: ./admin-back
       dockerfile: Dockerfile
     container_name: backend
     restart: always
