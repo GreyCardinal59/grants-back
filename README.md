@@ -8,3 +8,22 @@
 2. Статические файлы с фронтом должны открываться по всем остальным путям
 3. Формат токена может быть любой, в примерах использовался стандарт JWT
 4. СУБД - PostgreSQL
+
+## Запуск с помощью Docker
+```
+docker-compose up --build -d
+```
+Копируем бэкап в контейнер
+```
+docker cp backup.sql postgres:/backup.sql
+```
+Входим в контейнер
+```
+docker exec -it postgres bash
+```
+Импортируем данные
+```
+psql -U postgres -d admin_db -f /backup.sql
+```
+
+
