@@ -24,6 +24,7 @@ docker exec -it postgres bash
 Импортируем данные
 ```
 psql -U postgres -d admin_db -f /backup.sql
+# exit
 ```
 
 
